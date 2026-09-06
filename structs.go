@@ -45,3 +45,8 @@ func main() {
     }
     fmt.Println(dog)
 }
+// struct are mutable
+// access struct fiels with dot notation
+//  ommited fields will be zero-valued
+// its idiomatc to encapsulate struct creation in constructor functions
+// 

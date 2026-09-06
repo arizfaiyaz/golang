@@ -56,3 +56,9 @@ func main() {
 	}
 	fmt.Println("twoD", twoD)
 }
+
+// How does slice differs from array
+// 1 it is dynamic, 2 it is a reference type
+// 3. it is a slice of pointers to elements
+// 4. it is value type
+// 5. 
